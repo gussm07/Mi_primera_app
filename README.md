@@ -1,2 +1,3 @@
 # Mi_primera_app
-app/src/main/res/drawable/My Primera App.png
+
+![Alt Text](app/src/main/res/drawable/My Primera App.png)
